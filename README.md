@@ -1,4 +1,4 @@
-# page-starter
+# P&G 2022 China
 > if.eugeneyip.com
 
 A lightweight template repository for publishing LLM generated JSX pages with minimal setup.
